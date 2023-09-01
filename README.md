@@ -3,7 +3,7 @@ This is a Front-End Project of a Chatting Application developed using Java Swing
 
 # How to run it :
 1. Install Java 19+ versions in your system .
-2. Install the Font "ACKNO" , "Century Gothic" , "Berlin sans FB" & "Impact".
+2. Install the Font "ACKNO" , "Berlin sans FB" & "Impact".
 3. Type : javac Main.java in Terminal or CMD Prompt .
 4. If it has no error , then type java Main , the UI will show up.
 
